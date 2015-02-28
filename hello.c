@@ -8,3 +8,8 @@ void main()
 	printf("Lucas's line\n");
 	printf("Lucas's second line\n");
 }
+
+
+int sum(int a, int b) {
+	//stubbed
+}
