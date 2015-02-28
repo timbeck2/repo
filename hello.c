@@ -10,6 +10,7 @@ void main()
 }
 
 
-int sum(int a, int b) {
+int sum(int a, int b) {\
 	//stubbed
+	return a+b;
 }
